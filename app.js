@@ -1,4 +1,5 @@
 'use strict';
 
-let projectName = 'My new website';
-let version = 0.1;
+let projectName = 'My new web app';
+let version = 0.2;
+let number = 0;
