@@ -1,5 +1,5 @@
 'use strict';
 
-let projectName = 'My new web app';
-let version = 0.2;
-let number = 0;
+let projectName = 'WebApp';
+const VERSION = '0.1.0';
+let count = 0;
